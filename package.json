@@ -2,9 +2,9 @@
   "name": "schwab-auth",
   "version": "1.0.0",
   "description": "",
-  "main": "auth.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node auth.js"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
